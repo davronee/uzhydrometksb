@@ -5,7 +5,9 @@ name = "pypi"
 
 [packages]
 pytelegrambotapi = "*"
+pyTelegramBotAPI==4.4.0
 beautifulsoup4 = "*"
+
 
 [dev-packages]
 
